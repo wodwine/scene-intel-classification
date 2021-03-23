@@ -1,5 +1,8 @@
 # scene-intel-classification
 
+With 5 epochs model, we aim 91% accuracy for predicting the image scene
+With 3 epochs model, we aim 89% accuracy for predicting the image scene
+
 My kaggle: https://www.kaggle.com/worldwineweb/intel-scene-classification-91-accuracy
 
 Context
